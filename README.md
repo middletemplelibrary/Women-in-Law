@@ -49,7 +49,7 @@ Many more books were published during the 19th and early 20th centuries, includi
 <param ve-image 
        label="A treatise of the common law concerning husbands and wives" 
        description="photograph" 
-       url="https://www.middletemple.org.uk/sites/default/files/Uploads/archive/illustration%20of%20sarah%20chapone.PNG">
+       url="https://www.middletemple.org.uk/sites/default/files/Uploads/archive/feme_coverts.png">
        
 <param ve-image 
        label="The Gentleman's Magazine" 
