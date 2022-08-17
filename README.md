@@ -13,7 +13,11 @@
 As a result of that legislation, the first woman to be called to the Bar on 10 May 1922 was Ivy Williams, a member of Inner Temple. Helena Normanton was Called to the Bar at Middle Temple in November 1922.\
 \
 A Women in the Law exhibition was held in the Library from January to April 2022 which aimed to highlight women in the law by discussing the pioneers in the profession as well as ‘hidden’ women in professions associated with the law, displaying texts aimed at explaining the law in relation to women and legislative attempts to gain equal rights for women.\
-\
+<param ve-image 
+       label="Sex Disqualification (Removal) Act of 1919" 
+       description="text" 
+       url="https://user-images.githubusercontent.com/110464039/185187442-8b79e3b7-0631-46d0-b1dc-ff6676f99f54.jpg">
+
 Below are some of the items it featured.
 
 ## Legislating women
@@ -24,7 +28,11 @@ Josephine Butler took a leading role in the campaign to repeal the Contagious Di
 \
 In campaigning against these Acts, Josephine Butler challenged middle-class Victorian conventions on different levels. First, she spoke in public about sexual behaviour, sharing platforms with men, all of which were thought scandalous at the time. She also brought into the open the sexual double standard prevalent in Victorian society. The campaign achieved its aim in 1886 and its success was largely due to Butler’s activism.\
 \
-Butler continued campaigning to raise awareness about the trafficking of young girls into prostitution in Britain and continental Europe and founded the International Abolitionist Federation. She also campaigned around the age of consent, raising it from thirteen to sixteen.\
+Butler continued campaigning to raise awareness about the trafficking of young girls into prostitution in Britain and continental Europe and founded the International Abolitionist Federation. She also campaigned around the age of consent, raising it from thirteen to sixteen.
+<param ve-image 
+       label="Notice of a public meeting issued by Josephine Butler during the Pontefract by-election, 1872" 
+       description="text" 
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Josephine_Butler_-_Pontefract_meeting_notice.jpg/640px-Josephine_Butler_-_Pontefract_meeting_notice.jpg">
 
 ## ‘Ladies’ law’: The law in relation to women
 
@@ -57,6 +65,7 @@ Many more books were published during the 19th and early 20th centuries, includi
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/archive/gentlemans_magazine.png">
        
 ## John Fortescue, De laudibus legum Angliae, 1672 
+
 First written circa 1470; first printed circa 1543. Sir John Fortescue (1385-1479) was a prominent judge best known for this book, ‘In praise of the laws of England’. It is celebrated for the moral principle that it is better for the guilty to escape than the innocent be punished. It was written as an instruction book, in the style of a dialogue, for Edward, Prince of Wales.
 <param ve-image 
        label="John Fortescue, De laudibus legum Angliae" 
@@ -75,6 +84,10 @@ Aylmer was Bishop of London but fled to Switzerland during the reign of Mary I. 
 An harborovve for faithfull and trevve subiectes, agaynst the late blowne Blaste is one of several books in our collection in need of restoration. The binding is loose and some of the spine is missing, so it will need a reback and a repair to the spine. The textblock is dirty and needs to be cleaned by hand. There are also some paper tears to repair. This is a defense of the female monarchy during the time of Elizabeth I, and is a reply to The first blast of the trumpet against the monstruous regiment of women by John Knox. The imprint is false – it says Strassbourg on the title page but was printed in London by John Day, which makes it significant as not that many copies of it exist. The cost of repairing this book is £400.\
 \
 If you would like to sponsor the repair of this, please contact the librarian: r.satterley@middletemple.org.uk. You can also offer a donation via our sponsorship form. Read more about our rare book sponsorship programme.
+<param ve-image 
+       label="Illustration of a sewing Press from The Art of Bookbinding by Joseph William Zaehnsdorf" 
+       description="illustration"
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Art_of_Bookbinding_p056_Sewing_Press.png/640px-Art_of_Bookbinding_p056_Sewing_Press.png">
 
 ## The lavves resolutions of womens rights, 1632.
 
