@@ -231,8 +231,6 @@ The scrapbook above from the Archive (MT/19/SCR/7 - 'Vol. D - Women Barristers')
        label="Newspaper cuttings" 
        description="photograph"
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/archive/bob.png">
-       
-## The Women in Law exhibition was held from January to April 2022, curated by Renae Satterley, with contributions from the Middle Temple Archives and Dr. Gillian Murphy.
 
 ## Displayed Items
 
@@ -263,3 +261,5 @@ The scrapbook above from the Archive (MT/19/SCR/7 - 'Vol. D - Women Barristers')
 [Rice Vaughan, Practica Walliae, 1672](https://www.middletemplelibrary.org.uk/client/en_GB/default/search/results?qu=Practica+Walli%C3%A6%3B+or+The+proceedings+in+the+great+sessions+of&te=)\
 \
 [John Webster, Vittoria Corombona, or, The white devil. A tragedy, 1672](https://www.middletemplelibrary.org.uk/client/en_GB/default/search/results?qu=Vittoria+Corombona%2C+or%2C+The+white+devil.+A+tragedy&te=)
+
+## The Women in Law exhibition was held from January to April 2022, curated by Renae Satterley, with contributions from the Middle Temple Archives and Dr. Gillian Murphy.
