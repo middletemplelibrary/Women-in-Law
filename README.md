@@ -48,16 +48,11 @@ Within a month she was dead.
 \
 The 1777 Laws respecting women is divided into four parts dealing with the legal status of women, including proprietary rights, marriage law, criminal law and family law. It also includes an account of the trial of Elizabeth Chudleigh, Duchess of Kingston, for bigamy. Elizabeth had colluded with her first husband, John Hervey, to conceal their marriage, and subsequently married Evelyn Pierrepont, 2nd Duke of Kingston-upon-Hull.\ 
 \
-Many more books were published during the 19th and early 20th centuries, including J.J.S. Wharton’s An exposition of the laws relating to the women of England (1853), Women and law (1896) by Elizabeth C.W. Elmy, Annie B.W. Chapman’s The Status of women under English law (date unknown) and Women under English law by Maud I. Crofts (1928).\
+Many more books were published during the 19th and early 20th centuries, including J.J.S. Wharton’s An exposition of the laws relating to the women of England (1853), Women and law (1896) by Elizabeth C.W. Elmy, Annie B.W. Chapman’s The Status of women under English law (date unknown) and Women under English law by Maud I. Crofts (1928).
 <param ve-image 
        label="Sarah Chapone" 
        description="illustration" 
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/archive/illustration%20of%20sarah%20chapone.PNG">
-       
-<param ve-image 
-       label="A treatise of the common law concerning husbands and wives" 
-       description="photograph" 
-       url="https://www.middletemple.org.uk/sites/default/files/Uploads/archive/feme_coverts.png">
        
 <param ve-image 
        label="The Gentleman's Magazine" 
