@@ -225,9 +225,9 @@ In 1594, Charles Yetsweirt published Of the interchangeable course, or a variety
 \
 Elizabeth Flesher inherited a printing business from her husband James Flesher, and printed several legal works, including John Fortescue’s De laudibus legum Angliae in 1672. The English Short Title Catalogue lists over 30 law books printed by ‘E.’ or ‘Eliz.’ Flesher. She also printed theological works and books by Robert Boyle.\
 \
-Elizabeth Nutt started printing in 1716, eventually entering into partnership with Robert Gosling and others from 1717 to the 1730s. She printed several legal works, including Matthew Hale’s The History of the Common Law issued posthumously in 1716 and Blount’s Law Dictionary in 1717.\
+Elizabeth Nutt started printing in 1716, eventually entering into partnership with Robert Gosling and others from 1717 to the 1730s. She printed several legal works, including Matthew Hale’s The History of the Common Law issued posthumously in 1716 and Blount’s Law Dictionary in 1717.
 <param ve-image 
-       label="A colophon in the second edition of Magna Carta (1540) that reads in part: "Imprynted at London in Fletestrete by Elisabeth wydow of Robert Redma[n]." 
+       label="A colophon in the second edition of Magna Carta (1540) that reads in part: 'Imprynted at London in Fletestrete by Elisabeth wydow of Robert Redma[n].'" 
        description="photograph"
        url="https://user-images.githubusercontent.com/110464039/185373888-150da2d3-2541-434c-8721-87ca9741a052.png">
     
