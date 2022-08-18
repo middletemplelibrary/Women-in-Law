@@ -242,7 +242,11 @@ To encompass both, the books consisted of an introduction tracing the history of
 The series proved a raging success, not least because of the marked literary merit of the introductions. Armchair detectives, amateur criminologists and those who just wanted to read a good story all revelled in it. Each volume covered a notable trial from 1586 to 1953. After the series ceased in 1959, it attracted a cult following of collectors eager to amass an entire set. There were 83 volumes.\
 \
 Fifty-eight years later in 2017 a publishing firm called Mango Books licenced the Notable British Trial imprint and triumphantly brought out the 84th volume, impeccably produced with the same format and distinctive cover of its predecessors. More have followed and still more are planned for the future.
-
+<param ve-image 
+       label="Notable British Trials, Burke and Hare" 
+       description="photograph"
+       url="https://user-images.githubusercontent.com/110464039/185376644-c7093813-e546-4d17-afdb-cfc5cd580456.jpg">
+       
 ## In the News
 
 Newspapers such as The Times and the Illustrated London News erroneously named Olive Clapham (admitted Middle Temple 17 January 1920, called 17 November 1924) as the first British woman barrister. She was in fact the first woman to pass the English Bar examinations. According to the Oxford Dictionary of National Biography:\
