@@ -159,18 +159,8 @@ As Wilfrid Prest has pointed out, women did work in the legal profession prior t
        description="photograph"
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/archive/law%20for%20women.png">
 
-## Other firsts for women in the law were:
+## Other firsts for women in law
 
-1888: Eliza Orme became the first woman to earn a law degree in England at University College London;\
-\
-1903: Bertha Cave applied unsuccessfully to be admitted to Gray’s Inn;\
-\
-1919: Ada Summers became the first female magistrate;\
-\
-1920: Madge Easton Anderson became the first female solicitor in the United Kingdom;\
-\
-1922: Ivy Williams became the first woman to be Called to the Bar in England and Wales.\
-\
 Although women were not admitted to the Middle Temple as students until 1919, they did of course contribute to life at the Inns prior to this, in particular as shopkeepers and employees. This 1755 example from the Archive (MT.1/PPA) is a petition from Elizabeth, widow of John Martin, late Chief Porter. Mrs. Martin asks the Benchers to continue to allow her to gown the members, disputing the idea that this is the sole preserve of the Chief Porter. She shows that in 1712 one Mrs. Robins, a ‘trencher scraper’ in the Hall had enjoyed the benefit of gowning the gentlemen “for many years” and continued to do so until her death in 1738. Mrs. Martin had bought her gowns from Mrs. Robins’ husband and continued to gown gentlemen until 1753, when she joined in partnership with George Wood, the Butler. Throughout this time the Chief Porter did not gown the gentlemen. At the Parliament held in May 1755, Mrs. Martin’s petition was granted and she was allowed to continue gowning the barristers.\
 \
 Widows are also mentioned throughout the Minutes of Parliament. These include Florence Bellows, who had tenure of a house adjoining the gate of the Inn “on the right” in 1579. In 1607 ‘Widow Carter’ is told to “pull down” the house built by her late husband, William Carter, on the west side of Temple Lane. She was allowed to make a profit from the materials and is given £10 by the Treasury. However, by 1611 she was still in the house!\
