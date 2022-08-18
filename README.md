@@ -13,12 +13,12 @@
 As a result of that legislation, the first woman to be called to the Bar on 10 May 1922 was Ivy Williams, a member of Inner Temple. Helena Normanton was Called to the Bar at Middle Temple in November 1922.\
 \
 A Women in the Law exhibition was held in the Library from January to April 2022 which aimed to highlight women in the law by discussing the pioneers in the profession as well as ‘hidden’ women in professions associated with the law, displaying texts aimed at explaining the law in relation to women and legislative attempts to gain equal rights for women.\
+\
+Below are some of the items it featured.
 <param ve-image 
        label="Sex Disqualification (Removal) Act of 1919" 
        description="text" 
-       url="https://user-images.githubusercontent.com/110464039/185187442-8b79e3b7-0631-46d0-b1dc-ff6676f99f54.jpg">
-
-Below are some of the items it featured.
+       url="https://user-images.githubusercontent.com/110464039/185369660-04505869-ab0f-41db-9a46-5aeef33b4180.PNG">
 
 ## Legislating women
 
