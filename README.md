@@ -93,10 +93,12 @@ If you would like to sponsor the repair of this, please contact the librarian: r
 
 In addition to explaining a woman’s rights in marriage, this work covers a variety of topics including “age of consent, dower, hermaphrodites, polygamy, wooing, partition, chattels, divorce, [etc].” According to research carried out by Wilfrid Prest, the book’s intended audience was most likely law students at the Inns of Court in addition to learned gentlewomen, due to the complexity of the text and multiple uses of common law jargon. Its publication in English, rather than law French, however does indicate a certain degree of accessibility. It is the first book in English to use the phrase ‘women's rights’. Wilfrid Prest and T. Stretton have shown that female litigants were prevalent during the Elizabethan and Stuart periods, with some of the best-known being Bess of Hardwick, Lady Joan Thynne and Lady Anne Clifford.\
 \
-It is very possible that Lady Anne Clifford would have read, in The lawes resolutions of womens rights, that “a female may be preferred in succession before a male by the time wherein she cometh: as a daughter or daughter's daughter in the right line is preferred before a brother in the transversall line, and that as well in the common generall taile, as in fee simple... also a woman shall bee preferred propter jus sanguinis ... land discended must alwaies goe to heires of the blood of the first purchaser, and the case may bee such that a female shall cary away inheritance from a male.” Despite this assertion however, by the 17th century, female inheritances were being diverted away to transversal male lines. For example, Lady Anne’s father, George Clifford, willed the Clifford family estates to his brother Francis and Francis’s heirs in 1605. This led to long legal battles for Lady Anne which were not resolved in her favour. It was not until the death of her cousin Henry that she finally inherited the estates as he died without issue in 1643.\
-\
-See Earl of Cumberland’s Case
-       
+It is very possible that Lady Anne Clifford would have read, in The lawes resolutions of womens rights, that “a female may be preferred in succession before a male by the time wherein she cometh: as a daughter or daughter's daughter in the right line is preferred before a brother in the transversall line, and that as well in the common generall taile, as in fee simple... also a woman shall bee preferred propter jus sanguinis ... land discended must alwaies goe to heires of the blood of the first purchaser, and the case may bee such that a female shall cary away inheritance from a male.” Despite this assertion however, by the 17th century, female inheritances were being diverted away to transversal male lines. For example, Lady Anne’s father, George Clifford, willed the Clifford family estates to his brother Francis and Francis’s heirs in 1605. This led to long legal battles for Lady Anne which were not resolved in her favour. It was not until the death of her cousin Henry that she finally inherited the estates as he died without issue in 1643.
+<param ve-image 
+       label="Illustration of a sewing Press from The Art of Bookbinding by Joseph William Zaehnsdorf" 
+       description="photograph"
+       url="https://user-images.githubusercontent.com/110464039/185372262-14661e20-7e47-48b4-b96d-467622fd0554.jpg">
+  
 ## Ley’s King’s Bench Reports
 
 Earl of Cumberland’s Case, 1609 Ley 3\
@@ -140,6 +142,10 @@ Thorne claimed she committed suicide, but at the trial the pathologist, Sir Bern
 Rouse was convicted of killing an unknown man whose identity was never established. Rouse had been severely disabled in the war, suffering a knee and head injury. Rouse told police that he had travelled overnight to Leicester in his car, taking on a hitchhiker who managed to set himself alight in Rouse’s car when Rouse went into a field to relieve himself. Police believed that Rouse was attempting to disappear by using the unfortunate and unknown man as a stand-in body. Rouse had fathered several illegitimate children, with no way to maintain them on his travelling salesman’s salary. Normanton’s view was that “Rouse deliberately arranged the body of his victim so as to obtain the maximum amount of combustion possible”. The Rouse case is well-known for one of the questions asked during cross-examination: “What is the coefficient of the expansion of brass?” It serves as an example of an expert witness “being painted into a corner”, cross-examination being largely irrelevant, and the duty of the courts to ensure that witnesses are treated fairly: see 1997 M.L.J.I. 3.\
 \
 In preparing this text, Normanton received help from Morris Motor Cars. A member of staff there “of similar dimensions to the burnt man, [demonstrated] in a car of similar construction to the one Rouse used, the facts narrated in the confession. This was most helpful and convincing”.
+<param ve-image 
+       label="Arthur Rouse" 
+       description="photograph"
+       url="https://user-images.githubusercontent.com/110464039/185372962-fedcca21-e7b2-4d02-b742-cf35d4b22372.jpg">
 
 ## Everyday law for women, 1932.
 
@@ -220,7 +226,11 @@ In 1594, Charles Yetsweirt published Of the interchangeable course, or a variety
 Elizabeth Flesher inherited a printing business from her husband James Flesher, and printed several legal works, including John Fortescue’s De laudibus legum Angliae in 1672. The English Short Title Catalogue lists over 30 law books printed by ‘E.’ or ‘Eliz.’ Flesher. She also printed theological works and books by Robert Boyle.\
 \
 Elizabeth Nutt started printing in 1716, eventually entering into partnership with Robert Gosling and others from 1717 to the 1730s. She printed several legal works, including Matthew Hale’s The History of the Common Law issued posthumously in 1716 and Blount’s Law Dictionary in 1717.\
-
+<param ve-image 
+       label="A colophon in the second edition of Magna Carta (1540) that reads in part: "Imprynted at London in Fletestrete by Elisabeth wydow of Robert Redma[n]." 
+       description="photograph"
+       url="https://user-images.githubusercontent.com/110464039/185373888-150da2d3-2541-434c-8721-87ca9741a052.png">
+    
 ## Notable British Trials – Sally Smith QC
 
 In 1905 Mr Harry Hodge, a court reporter in an Edinburgh law publishing firm run by his father (William Hodge and Company) began this series as a hobby to inform ordinary members of the public about what really went on in the solemn trials of the sensational crimes they read about in the newspapers.\
