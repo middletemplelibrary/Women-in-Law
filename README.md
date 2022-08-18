@@ -288,6 +288,6 @@ The scrapbook above from the Archive (MT/19/SCR/7 - 'Vol. D - Women Barristers')
 
 The Women in Law exhibition was held from January to April 2022, curated by Renae Satterley, with contributions from the Middle Temple Archives and Dr. Gillian Murphy.
 <param ve-image 
-       label="The Trial of Norman Thorne" 
+       label="Middle Temple" 
        description="photograph"
-       url="https://user-images.githubusercontent.com/110464039/185409226-17a637e0-5618-435d-ad9e-5cb5530ccfc8.JPG">
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Middle_Temple%2C_London-9734489084.jpg/800px-Middle_Temple%2C_London-9734489084.jpg?20150116174748">
