@@ -3,7 +3,7 @@
 <param ve-config 
        title="Women in Law"
        author="Middle Temple Library"
-       banner="" 
+       banner="https://user-images.githubusercontent.com/110464039/185409518-e9fe851a-02ec-4e77-9070-eb7bf609cb9d.JPG"
        layout="vertical">
 
 ## Introduction
@@ -95,10 +95,10 @@ In addition to explaining a woman’s rights in marriage, this work covers a var
 \
 It is very possible that Lady Anne Clifford would have read, in The lawes resolutions of womens rights, that “a female may be preferred in succession before a male by the time wherein she cometh: as a daughter or daughter's daughter in the right line is preferred before a brother in the transversall line, and that as well in the common generall taile, as in fee simple... also a woman shall bee preferred propter jus sanguinis ... land discended must alwaies goe to heires of the blood of the first purchaser, and the case may bee such that a female shall cary away inheritance from a male.” Despite this assertion however, by the 17th century, female inheritances were being diverted away to transversal male lines. For example, Lady Anne’s father, George Clifford, willed the Clifford family estates to his brother Francis and Francis’s heirs in 1605. This led to long legal battles for Lady Anne which were not resolved in her favour. It was not until the death of her cousin Henry that she finally inherited the estates as he died without issue in 1643.
 <param ve-image 
-       label="Illustration of a sewing Press from The Art of Bookbinding by Joseph William Zaehnsdorf" 
+       label="The lavves resolutions of womens rights" 
        description="photograph"
-       url="https://user-images.githubusercontent.com/110464039/185372262-14661e20-7e47-48b4-b96d-467622fd0554.jpg">
-  
+       url="https://user-images.githubusercontent.com/110464039/185406942-443a3d04-87fe-41da-b0d0-85c5faa9b391.JPG">
+
 ## Ley’s King’s Bench Reports
 
 Earl of Cumberland’s Case, 1609 Ley 3\
@@ -281,4 +281,13 @@ The scrapbook above from the Archive (MT/19/SCR/7 - 'Vol. D - Women Barristers')
 \
 [John Webster, Vittoria Corombona, or, The white devil. A tragedy, 1672](https://www.middletemplelibrary.org.uk/client/en_GB/default/search/results?qu=Vittoria+Corombona%2C+or%2C+The+white+devil.+A+tragedy&te=)
 
+<param ve-image 
+       label="A treatise of feme coverts: or, the lady’s law, 1732" 
+       description="photograph"
+       url="https://user-images.githubusercontent.com/110464039/185407823-8083f797-8cec-4ef8-acc4-591752299811.JPG">
+
 The Women in Law exhibition was held from January to April 2022, curated by Renae Satterley, with contributions from the Middle Temple Archives and Dr. Gillian Murphy.
+<param ve-image 
+       label="The Trial of Norman Thorne" 
+       description="photograph"
+       url="https://user-images.githubusercontent.com/110464039/185409226-17a637e0-5618-435d-ad9e-5cb5530ccfc8.JPG">
