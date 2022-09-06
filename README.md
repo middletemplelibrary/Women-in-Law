@@ -50,7 +50,7 @@ The 1777 Laws respecting women is divided into four parts dealing with the legal
 \
 Many more books were published during the 19th and early 20th centuries, including J.J.S. Wharton’s An exposition of the laws relating to the women of England (1853), Women and law (1896) by Elizabeth C.W. Elmy, Annie B.W. Chapman’s The Status of women under English law (date unknown) and Women under English law by Maud I. Crofts (1928).
 <param ve-image 
-       label="Sarah Chapone" 
+       label="Illustration of Sarah Capone ⓒ Trustees of the British Museum" 
        description="illustration" 
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/archive/illustration%20of%20sarah%20chapone.PNG">
        
@@ -114,8 +114,8 @@ This tract was written by the Chief Justice of Gibraltar and is open to display 
        
 ## Women in the law: female lawyers
 
-In addition to being the first woman to be admitted to an Inn of Court, the second woman to be Called to the Bar, and the first to practise as a barrister in England, Helena Normanton was an early advocate for women’s rights. In 1914 she published a pamphlet entitled Sex differentiation in salary, which argued for equal pay for equal work. Throughout 1919 she was a speaker at many Women’s Freedom League meetings. In April 1919 Normanton argued that “all branches of the legal profession should be opened to women” at a debate meeting of the Union Society held on ‘Ladies Night’ at Lincoln’s Inn./
-/
+In addition to being the first woman to be admitted to an Inn of Court, the second woman to be Called to the Bar, and the first to practise as a barrister in England, Helena Normanton was an early advocate for women’s rights. In 1914 she published a pamphlet entitled Sex differentiation in salary, which argued for equal pay for equal work. Throughout 1919 she was a speaker at many Women’s Freedom League meetings. In April 1919 Normanton argued that “all branches of the legal profession should be opened to women” at a debate meeting of the Union Society held on ‘Ladies Night’ at Lincoln’s Inn.\
+\
 Normanton supplemented the income from her legal practice with public speaking engagements, writing articles for publications such as Good Housekeeping and editing trial accounts for the Notable British Trials series. This was most likely due to the low income she was receiving working as a barrister, which was the result of discrimination at the Bar and less support for female barristers.
 <param ve-image 
        label="Image of Helena Normanton from The Women's Library at LSE Library" 
