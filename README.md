@@ -118,7 +118,7 @@ In addition to being the first woman to be admitted to an Inn of Court, the seco
 /
 Normanton supplemented the income from her legal practice with public speaking engagements, writing articles for publications such as Good Housekeeping and editing trial accounts for the Notable British Trials series. This was most likely due to the low income she was receiving working as a barrister, which was the result of discrimination at the Bar and less support for female barristers.
 <param ve-image 
-       label="Helena Normanton" 
+       label="Image of Helena Normanton from The Women's Library at LSE Library" 
        description="photograph" 
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/archive/normantonLSEWL.png">
 
