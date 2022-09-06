@@ -84,7 +84,7 @@ If you would like to sponsor the repair of this, please contact the librarian: <
        description="illustration"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Art_of_Bookbinding_p056_Sewing_Press.png/640px-Art_of_Bookbinding_p056_Sewing_Press.png">
 
-## The lavves resolutions of womens rights, 1632.
+## The lavves resolutions of womens rights, 1632
 
 In addition to explaining a woman’s rights in marriage, this work covers a variety of topics including “age of consent, dower, hermaphrodites, polygamy, wooing, partition, chattels, divorce, [etc].” According to research carried out by Wilfrid Prest, the book’s intended audience was most likely law students at the Inns of Court in addition to learned gentlewomen, due to the complexity of the text and multiple uses of common law jargon. Its publication in English, rather than law French, however does indicate a certain degree of accessibility. It is the first book in English to use the phrase ‘women's rights’. Wilfrid Prest and T. Stretton have shown that female litigants were prevalent during the Elizabethan and Stuart periods, with some of the best-known being Bess of Hardwick, Lady Joan Thynne and Lady Anne Clifford.\
 \
@@ -104,7 +104,7 @@ Lady Anne Clifford spent more than thirty years fighting a legal battle to regai
        description="photograph" 
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/archive/cumberland.png">
        
-## Robert Robinson, A discourse concerning the law of inheritances, 1736.
+## Robert Robinson, A discourse concerning the law of inheritances, 1736
 
 This tract was written by the Chief Justice of Gibraltar and is open to display his (sadly not unique) view of women in relation to consanguinity and inheritance. Robinson argues that women are simply bearers and do not contribute to the baby’s consanguinity: “the child is essentially produced from the blood and stamina of the father only, and that the several femes only supply the Foetus”. Although Robinson had been named Chief Justice of Gibraltar in 1740, he never took up the post, and this significantly delayed the setting up of law courts in Gibraltar. The book includes a plate outlining the degrees of consanguinity.
 <param ve-image 
@@ -122,7 +122,7 @@ Normanton supplemented the income from her legal practice with public speaking e
        description="photograph" 
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/archive/normantonLSEWL.png">
 
-## The trial of Norman Thorne: the Crowborough chicken farm murder, 1929.
+## The trial of Norman Thorne: the Crowborough chicken farm murder, 1929
 
 Thorne was a Sunday school teacher and chicken farmer convicted of murdering his fiancée, Elsie Cameron. Although they were engaged, Thorne soon lost interest when he met another young lady, Bessie Coldicott. While she was on a weekend visit to his farm in Crowborough, Thorne killed Elsie, dismembered her body, and buried the pieces around his farm.\
 \
@@ -132,7 +132,7 @@ Thorne claimed she committed suicide, but at the trial the pathologist, Sir Bern
        description="photograph"
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/archive/thorne.png">
        
-## Trial of Alfred Arthur Rouse, 1931.
+## Trial of Alfred Arthur Rouse, 1931
 
 Rouse was convicted of killing an unknown man whose identity was never established. Rouse had been severely disabled in the war, suffering a knee and head injury. Rouse told police that he had travelled overnight to Leicester in his car, taking on a hitchhiker who managed to set himself alight in Rouse’s car when Rouse went into a field to relieve himself. Police believed that Rouse was attempting to disappear by using the unfortunate and unknown man as a stand-in body. Rouse had fathered several illegitimate children, with no way to maintain them on his travelling salesman’s salary. Normanton’s view was that “Rouse deliberately arranged the body of his victim so as to obtain the maximum amount of combustion possible”. The Rouse case is well-known for one of the questions asked during cross-examination: “What is the coefficient of the expansion of brass?” It serves as an example of an expert witness “being painted into a corner”, cross-examination being largely irrelevant, and the duty of the courts to ensure that witnesses are treated fairly: see 1997 M.L.J.I. 3.\
 \
@@ -142,7 +142,7 @@ In preparing this text, Normanton received help from Morris Motor Cars. A member
        description="photograph"
        url="https://user-images.githubusercontent.com/110464039/185372962-fedcca21-e7b2-4d02-b742-cf35d4b22372.jpg">
 
-## Everyday law for women, 1932.
+## Everyday law for women, 1932
 
 This work continues the tradition of books that explain the law to women in less technical terms than those required of a practising lawyer. Normanton aimed to take “an English female creature in her journey from cradle to grave upon a sort of aerial voyage of the terrain of her country’s laws, so far as they are most likely to affect her”. One 1934 reviewer accused Normanton of over-emphasising “on detail”, which he* deemed unnecessary and undesirable “in the sections dealing with unhappy marriages and with sexual relationships and crimes generally”. It is unclear why detail would be unnecessary or undesirable, however it is in the preface of this work where Normanton explains that her ambition to become a barrister started when she was twelve.\
 \
