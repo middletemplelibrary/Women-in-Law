@@ -30,8 +30,8 @@ Butler continued campaigning to raise awareness about the trafficking of young g
 <param ve-image 
        label="Notice of a public meeting issued by Josephine Butler during the Pontefract by-election, 1872. Image courtesy of The Women’s Library, LSE" 
        description="text" 
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Josephine_Butler_-_Pontefract_meeting_notice.jpg/640px-Josephine_Butler_-_Pontefract_meeting_notice.jpg">
-
+       url="https://user-images.githubusercontent.com/110464039/189089424-119a797b-c743-4216-b56a-fee4768d7ec7.jpg">
+       
 ## ‘Ladies’ law’: The law in relation to women
 
 Works relating to women’s legal rights have been published in Britain since at least 1632, when ‘T.E.’ published The Lawes Resolutions of Women's Rights, this book focuses on three stages of a woman’s life, as delineated in the early modern period: spinster, wife and widow. It was entered in the Stationers’ Register to the bookseller John Grove “under the handes of Sir Egremont Thynne and Thomas Edgar” on the 30th of April 1632. ‘T.E.’ most likely refers to Edgar, who is often named as the editor of this work, although the work has also been attributed to Sir John Doddridge (1555-1628), the author of The compleat parson and The English lawyer.\
