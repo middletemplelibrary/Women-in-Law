@@ -286,4 +286,4 @@ The Women in Law exhibition was held from January to April 2022, curated by Rena
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Middle_Temple%2C_London-9734489084.jpg/800px-Middle_Temple%2C_London-9734489084.jpg?20150116174748">
 
 
-![Ivy Williams formal](https://user-images.githubusercontent.com/110464039/189086698-65cfdb3d-6a0a-4d44-b95b-de3e342b8eee.jpg)!
+https://user-images.githubusercontent.com/110464039/189086698-65cfdb3d-6a0a-4d44-b95b-de3e342b8eee.jpg
