@@ -28,7 +28,7 @@ In campaigning against these Acts, Josephine Butler challenged middle-class Vict
 \
 Butler continued campaigning to raise awareness about the trafficking of young girls into prostitution in Britain and continental Europe and founded the International Abolitionist Federation. She also campaigned around the age of consent, raising it from thirteen to sixteen.
 <param ve-image 
-       label="Notice of a public meeting issued by Josephine Butler during the Pontefract by-election, 1872" 
+       label="Notice of a public meeting issued by Josephine Butler during the Pontefract by-election, 1872. Image courtesy of The Women’s Library, LSE" 
        description="text" 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Josephine_Butler_-_Pontefract_meeting_notice.jpg/640px-Josephine_Butler_-_Pontefract_meeting_notice.jpg">
 
@@ -284,3 +284,6 @@ The Women in Law exhibition was held from January to April 2022, curated by Rena
        label="Middle Temple" 
        description="photograph"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Middle_Temple%2C_London-9734489084.jpg/800px-Middle_Temple%2C_London-9734489084.jpg?20150116174748">
+
+
+![Ivy Williams formal](https://user-images.githubusercontent.com/110464039/189086698-65cfdb3d-6a0a-4d44-b95b-de3e342b8eee.jpg)
