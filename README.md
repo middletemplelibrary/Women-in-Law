@@ -162,7 +162,7 @@ Widow Gregorie (Gregory) was a tenant in possession of a spectacle shop “witho
 \
 Women worked at the Inn as employees as well. In 1673 the ‘house laundress’ was given five marks “because of the dearness of coals”. In 1687 Widow Smith petitioned the Inn for “her service in the buttery and scraping trenchers for a year past”. She is finally given five marks for her service at the Parliament of 14 June 1689! In 1702 they gave Widow Ule, the cleaner of the Parliament Chamber and Library, 40s “to relieve her in a long sickness”
 
-<param ve-iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=19gdBcd4xg5QxwQaZQX9SDOLfzcF9suij0Byfj5GF8kM&font=Lustria-Lato&lang=en&initial_zoom=1&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'>
+<param ve-knightlab-timeline src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=19gdBcd4xg5QxwQaZQX9SDOLfzcF9suij0Byfj5GF8kM&font=Lustria-Lato&lang=en&initial_zoom=1&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'>
 
 ## John Indermaur, Ladies’ law
 
