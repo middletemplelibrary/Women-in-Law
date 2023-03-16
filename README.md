@@ -247,9 +247,9 @@ The scrapbook above from the Archive (MT/19/SCR/7 - 'Vol. D - Women Barristers')
 ## Displayed Items
 
 [John Aylmer, An harborovve for faithfull and trevve subiectes, agaynst the late blowne Blaste, 1559](https://www.middletemplelibrary.org.uk/client/en_GB/default/search/results/?ln=en_GB&q=An+harborovve+for+faithfull+and+trevve+subiectes%2C+agaynst+the+late+blowne+Blaste&rw=0)
-<br><br>
+<br>
 [John Fortescue, De laudibus legum Angliae, 1672](https://www.middletemplelibrary.org.uk/client/en_GB/default/search/results?qu=De+laudibus+legum+Angli%C3%A6+%2F+written+by+Sir+John+Fortescue+Lord+Ch.+Justice%2C+and+after+Lord+Chancellor+to+K.+Henry+vj.+Hereto+are+added+the+two+sums+of+Sir+Ralph+de+Hengham+L.+Ch.+Justice+to+K.+Edward+I.%2C+commonly&te=)
-<br><br>
+<br>
 [John Indermaur, Ladies’ law: a book for spinsters, wives and widows [circa 1886]](https://www.middletemplelibrary.org.uk/client/en_GB/default/search/results?qu=Ladies%E2%80%99+law%3A+a+book+for+spinsters%2C+wives+and+widows&te=)
 <br><br>
 [Inner Temple, Report of the committee appointed to obtain information and to report on the admission of women as advocates in the courts of countries other than the United Kingdom, 1919](http://report%20of%20the%20committee%20appointed%20to%20obtain%20information%20and%20to%20report%20on%20the%20admission%20of%20women%20as%20advocates%20in%20the%20courts%20of%20countries%20other%20than%20the%20united%20kingdom/)
