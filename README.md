@@ -10,7 +10,8 @@
 <br><br>
 As a result of that legislation, the first woman to be called to the Bar on 10 May 1922 was Ivy Williams, a member of Inner Temple. Helena Normanton was Called to the Bar at Middle Temple in November 1922.
 <br><br>
-A Women in the Law exhibition was held in the Library from January to April 2022 which aimed to highlight women in the law by discussing the pioneers in the profession as well as ‘hidden’ women in professions associated with the law, displaying texts aimed at explaining the law in relation to women and legislative attempts to gain equal rights for women.<br><br>
+A Women in the Law exhibition was held in the Library from January to April 2022 which aimed to highlight women in the law by discussing the pioneers in the profession as well as ‘hidden’ women in professions associated with the law, displaying texts aimed at explaining the law in relation to women and legislative attempts to gain equal rights for women.
+<br><br>
 Below are some of the items it featured.
 <param ve-image 
        label="Sex Disqualification (Removal) Act of 1919" 
@@ -141,8 +142,7 @@ In preparing this text, Normanton received help from Morris Motor Cars. A member
 
 ## Everyday law for women, 1932
 
-This work continues the tradition of books that explain the law to women in less technical terms than those required of a practising lawyer. Normanton aimed to take “an English female creature in her journey from cradle to grave upon a sort of aerial voyage of the terrain of her country’s laws, so far as they are most likely to affect her”. One 1934 reviewer accused Normanton of over-emphasising “on detail”, which he* deemed unnecessary and undesirable “in the sections dealing with unhappy marriages and with sexual relationships and crimes generally”. It is unclear why detail would be unnecessary or undesirable, however it is in the preface of this work where Normanton explains that her ambition to become a barrister started when she was twelve.
-<br><br>
+This work continues the tradition of books that explain the law to women in less technical terms than those required of a practising lawyer. Normanton aimed to take “an English female creature in her journey from cradle to grave upon a sort of aerial voyage of the terrain of her country’s laws, so far as they are most likely to affect her”. One 1934 reviewer accused Normanton of over-emphasising “on detail”, which he* deemed unnecessary and undesirable “in the sections dealing with unhappy marriages and with sexual relationships and crimes generally”. It is unclear why detail would be unnecessary or undesirable, however it is in the preface of this work where Normanton explains that her ambition to become a barrister started when she was twelve.<br>
 *The author of the review is given simply as M.G.C.
 <br><br>
 As Wilfrid Prest has pointed out, women did work in the legal profession prior to Normanton’s Christmas Eve 1919 admission to Middle Temple. Women worked as clerks (Maria Rye set up a stationer’s business in 1859) and there is evidence of two women opening a “legal office in Chancery Lane” in the 1880s. Even earlier than that, however, Nehemiah Grew (1641-1712) wrote an unpublished treatise (MSS Lansdowne 691 and Huntington HM 1264) in which he lists “some women” attorneys, including “one Hawkins, a female solicitor … said to be known to most of the judges” who was practicing during the late 17th/early 18th century. Unfortunately Mistress Hawkins remains unidentified. Margaret Brent received authority to act as attorney on 3 January 1648 from the Maryland Assembly, making her the first woman to practise law in the English colonies of what later became the United States of America.
@@ -289,4 +289,4 @@ The Women in Law exhibition was held from January to April 2022, curated by Rena
 <!-- Ada Summers https://user-images.githubusercontent.com/110464039/189119593-1289e513-8d6d-4b1e-aac3-60dcbad9662b.jpg -->
 <!-- Bertha Cave https://user-images.githubusercontent.com/110464039/189119604-2080cbc1-55e6-45f8-923c-b2c435c8a9be.jpg -->
 
-.ve-annotate
+
