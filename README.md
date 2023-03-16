@@ -143,7 +143,7 @@ In preparing this text, Normanton received help from Morris Motor Cars. A member
 ## Everyday law for women, 1932
 
 This work continues the tradition of books that explain the law to women in less technical terms than those required of a practising lawyer. Normanton aimed to take “an English female creature in her journey from cradle to grave upon a sort of aerial voyage of the terrain of her country’s laws, so far as they are most likely to affect her”. One 1934 reviewer accused Normanton of over-emphasising “on detail”, which he\* deemed unnecessary and undesirable “in the sections dealing with unhappy marriages and with sexual relationships and crimes generally”. It is unclear why detail would be unnecessary or undesirable, however it is in the preface of this work where Normanton explains that her ambition to become a barrister started when she was twelve.
-<br><br>
+<br>
 \*The author of the review is given simply as M.G.C.
 <br><br>
 As Wilfrid Prest has pointed out, women did work in the legal profession prior to Normanton’s Christmas Eve 1919 admission to Middle Temple. Women worked as clerks (Maria Rye set up a stationer’s business in 1859) and there is evidence of two women opening a “legal office in Chancery Lane” in the 1880s. Even earlier than that, however, Nehemiah Grew (1641-1712) wrote an unpublished treatise (MSS Lansdowne 691 and Huntington HM 1264) in which he lists “some women” attorneys, including “one Hawkins, a female solicitor … said to be known to most of the judges” who was practicing during the late 17th/early 18th century. Unfortunately Mistress Hawkins remains unidentified. Margaret Brent received authority to act as attorney on 3 January 1648 from the Maryland Assembly, making her the first woman to practise law in the English colonies of what later became the United States of America.
@@ -247,9 +247,9 @@ The scrapbook above from the Archive (MT/19/SCR/7 - 'Vol. D - Women Barristers')
 ## Displayed Items
 
 [John Aylmer, An harborovve for faithfull and trevve subiectes, agaynst the late blowne Blaste, 1559](https://www.middletemplelibrary.org.uk/client/en_GB/default/search/results/?ln=en_GB&q=An+harborovve+for+faithfull+and+trevve+subiectes%2C+agaynst+the+late+blowne+Blaste&rw=0)
-<br>
+<br><br>
 [John Fortescue, De laudibus legum Angliae, 1672](https://www.middletemplelibrary.org.uk/client/en_GB/default/search/results?qu=De+laudibus+legum+Angli%C3%A6+%2F+written+by+Sir+John+Fortescue+Lord+Ch.+Justice%2C+and+after+Lord+Chancellor+to+K.+Henry+vj.+Hereto+are+added+the+two+sums+of+Sir+Ralph+de+Hengham+L.+Ch.+Justice+to+K.+Edward+I.%2C+commonly&te=)
-<br>
+<br><br>
 [John Indermaur, Ladies’ law: a book for spinsters, wives and widows [circa 1886]](https://www.middletemplelibrary.org.uk/client/en_GB/default/search/results?qu=Ladies%E2%80%99+law%3A+a+book+for+spinsters%2C+wives+and+widows&te=)
 <br><br>
 [Inner Temple, Report of the committee appointed to obtain information and to report on the admission of women as advocates in the courts of countries other than the United Kingdom, 1919](http://report%20of%20the%20committee%20appointed%20to%20obtain%20information%20and%20to%20report%20on%20the%20admission%20of%20women%20as%20advocates%20in%20the%20courts%20of%20countries%20other%20than%20the%20united%20kingdom/)
