@@ -1,4 +1,4 @@
-
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
        title="Women in Law"
@@ -288,3 +288,5 @@ The Women in Law exhibition was held from January to April 2022, curated by Rena
 <!-- Ivy Williams https://user-images.githubusercontent.com/110464039/189086698-65cfdb3d-6a0a-4d44-b95b-de3e342b8eee.jpg -->
 <!-- Ada Summers https://user-images.githubusercontent.com/110464039/189119593-1289e513-8d6d-4b1e-aac3-60dcbad9662b.jpg -->
 <!-- Bertha Cave https://user-images.githubusercontent.com/110464039/189119604-2080cbc1-55e6-45f8-923c-b2c435c8a9be.jpg -->
+
+.ve-annotate
