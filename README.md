@@ -5,6 +5,12 @@
        author="Middle Temple Library"
        banner="https://user-images.githubusercontent.com/110464039/185409518-e9fe851a-02ec-4e77-9070-eb7bf609cb9d.JPG"
        layout="vertical">
+## Welcome to Middle Temple Library’s exhibition on Women in Law
+
+<param ve-image 
+       url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
+
+##
 
 2019 marked the 100th anniversary of the passing of the Sex Disqualification (Removal) Act of 1919. The passing of this Act allowed women to become practising solicitors and barristers in an official capacity, and to join the Law Society and the Inns of Court: “a person shall not be disqualified by sex or marriage from the exercise of any public function, or from being appointed to or holding any civil or judicial office or post, or from entering or assuming or carrying on any civil profession or vocation, or for admission to any incorporated society (whether incorporated by Royal Charter or otherwise), and a person shall not be exempted by sex or marriage from the liability to serve as a juror”.
 <br><br>
