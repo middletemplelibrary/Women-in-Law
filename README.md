@@ -1,5 +1,3 @@
-<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-
 <param ve-config 
        title="Women in Law"
        author="Middle Temple Library"
@@ -249,41 +247,6 @@ The scrapbook above from the Archive (MT/19/SCR/7 - 'Vol. D - Women Barristers')
        label="Newspaper cuttings" 
        description="photograph"
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/archive/bob.png">
-
-## Displayed Items
-
-[John Aylmer, An harborovve for faithfull and trevve subiectes, agaynst the late blowne Blaste, 1559](https://www.middletemplelibrary.org.uk/client/en_GB/default/search/results/?ln=en_GB&q=An+harborovve+for+faithfull+and+trevve+subiectes%2C+agaynst+the+late+blowne+Blaste&rw=0)
-<br><br>
-[John Fortescue, De laudibus legum Angliae, 1672](https://www.middletemplelibrary.org.uk/client/en_GB/default/search/results?qu=De+laudibus+legum+Angli%C3%A6+%2F+written+by+Sir+John+Fortescue+Lord+Ch.+Justice%2C+and+after+Lord+Chancellor+to+K.+Henry+vj.+Hereto+are+added+the+two+sums+of+Sir+Ralph+de+Hengham+L.+Ch.+Justice+to+K.+Edward+I.%2C+commonly&te=)
-<br><br>
-[John Indermaur, Ladies’ law: a book for spinsters, wives and widows [circa 1886]](https://www.middletemplelibrary.org.uk/client/en_GB/default/search/results?qu=Ladies%E2%80%99+law%3A+a+book+for+spinsters%2C+wives+and+widows&te=)
-<br><br>
-[Inner Temple, Report of the committee appointed to obtain information and to report on the admission of women as advocates in the courts of countries other than the United Kingdom, 1919](http://report%20of%20the%20committee%20appointed%20to%20obtain%20information%20and%20to%20report%20on%20the%20admission%20of%20women%20as%20advocates%20in%20the%20courts%20of%20countries%20other%20than%20the%20united%20kingdom/)
-<br><br>
-[James Ley, Reports of divers resolutions … in the Court of Wards and other courts at Westminster, 1659](https://www.middletemplelibrary.org.uk/client/en_GB/default/search/results?qu=Reports+of+divers+resolutions+%E2%80%A6+in+the+Court+of+Wards+and+other+courts+at+Westminster&te=)
-<br><br>
-[John Stuart Mill, The subjection of women, 1869](https://www.middletemplelibrary.org.uk/client/en_GB/default/search/results?qu=The+subjection+of+women&te=)
-<br><br>
-[Helena Normanton, The trial of Norman Thorne](https://www.middletemplelibrary.org.uk/client/en_GB/default/search/results?qu=The+trial+of+Norman+Thorne&te=), [1929 and Trial of Alfred Arthur Rouse, 1931](https://www.middletemplelibrary.org.uk/client/en_GB/default/search/results?qu=Trial+of+Alfred+Arthur+Rouse&te=)
-<br><br>
-[Helena Normanton, Everyday law for women, 1932](https://www.middletemplelibrary.org.uk/client/en_GB/default/search/results?qu=Everyday+law+for+women&te=)
-<br><br>
-[Edmund Plowden, Abridgment des touts les cases reportez, [circa 1597]](https://www.middletemplelibrary.org.uk/client/en_GB/default/search/results?qu=Abridgment+des+touts+les+cases+reportez+alarge+per+Monsieur+Plowden%2C+ouesq%5Bue%5D+les&te=)
-<br><br>
-[A treatise of feme coverts: or, the lady’s law, 1732](https://www.middletemplelibrary.org.uk/client/en_GB/default/search/results?qu=A+treatise+of+feme+coverts%3A+or%2C+the+lady%E2%80%99s+law&te=)
-<br><br>
-[Robert Robinson, A discourse concerning the law of inheritances, 1736](https://www.middletemplelibrary.org.uk/client/en_GB/default/search/results?qu=A+discourse+concerning+the+law+of+inheritances+in+fee%2C+and%2C+therein%2C+concerning+the+several+degrees+of+consanguinity%2C+%26c.+To+which+is+prefixed+a+kalendar+of+the+persons+inheritable.+The+Whole+laid+down+in+a+New+Method&te=)
-<br><br>
-[Suffrage Speeches from the Dock. Made at the Conspiracy Trial, Old Bailey, May 15th-22nd, 1912](https://www.middletemplelibrary.org.uk/client/en_GB/default/search/results?qu=Suffrage+Speeches+from+the+Dock.+Made+at+the+Conspiracy+Trial%2C+Old+Bailey&te=)
-<br><br>
-[Rice Vaughan, Practica Walliae, 1672](https://www.middletemplelibrary.org.uk/client/en_GB/default/search/results?qu=Practica+Walli%C3%A6%3B+or+The+proceedings+in+the+great+sessions+of&te=)
-<br><br>
-[John Webster, Vittoria Corombona, or, The white devil. A tragedy, 1672](https://www.middletemplelibrary.org.uk/client/en_GB/default/search/results?qu=Vittoria+Corombona%2C+or%2C+The+white+devil.+A+tragedy&te=)
-
-<param ve-image 
-       label="A treatise of feme coverts: or, the lady’s law, 1732" 
-       description="photograph"
-       url="https://user-images.githubusercontent.com/110464039/185407823-8083f797-8cec-4ef8-acc4-591752299811.JPG">
 
 The Women in Law exhibition was held from January to April 2022, curated by Renae Satterley, with contributions from the Middle Temple Archives and Dr. Gillian Murphy.
 <param ve-image 
